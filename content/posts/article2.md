@@ -1,5 +1,5 @@
 ---
 title: "-2- Titre - Article 2"
+date: 2020-09-07T17:27:59+07:00
 ---
-
-Contenu - 2 - article 2.
+- 2 - Contenu de l'article 2.

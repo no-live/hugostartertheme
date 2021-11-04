@@ -14,3 +14,9 @@ theme = "hugo-starter"
     name = "About"
     url = "/about"
     weight = 20
+
+  [[menu.main]]
+    identifier = "Test"
+    name = "Test"
+    url = "/test"
+    weight = 20

@@ -1,6 +1,5 @@
 ---
-title: "Titre-Posts-index"
-date: 2020-09-05T17:27:59+07:00
+title: "Titre-Posts-/_index.md"
 ---
 
-Contenu - Posts-index.
+Contenu - Posts-/_index.md.
